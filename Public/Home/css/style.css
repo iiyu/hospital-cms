@@ -1,0 +1,109 @@
+body { font-family: "宋体"; font-size: 12px; color: #666; background: url(../images/body.jpg) repeat-x top #fff; margin: 0; }
+#warp { width: 1000px; text-align: left; margin: 0 auto; }
+dl, dt, dd, ul { margin: 0; padding: 0; list-style-type: none; }
+form, input { margin: 0; padding: 0; }
+img { border: 0; }
+a { text-decoration: none; }
+.top { width: 1000px; height:81px; float: left; background: url(../images/logo_123.jpg) no-repeat left; }
+.top h5 { margin:20px 0 0 0; padding: 0 0 0 70px; font-size: 24px; font-family: 'Microsoft Yahei' , '黑体' ,Arial,Verdana; color: #454545; width:900px}
+.top h5 span { font-size: 20px; padding-left: 30px; color: #66aa00; }
+.nav { width: 1000px; float: left; }
+.nav ul { margin-top: 5px; width: 750px; float: left; }
+.nav ul li { float: left; border: 1px #dfdfdf solid; width: 215px; _width: 210px; border-bottom: 0; padding-left: 10px; line-height: 28px; margin: 5px 20px 5px 0; cursor: pointer; background: url(../images/tab_bj1.jpg) repeat-x bottom; }
+.nav ul li a { color: #999; }
+.nav ul li.f1 { background: #66aa00; font-weight: 700; }
+.nav ul li.f1 a { color: #fff; }
+.nav em { display: block; float: left; width: 240px; height: 33px; float: right; margin-top: 15px; font-style: normal; line-height: 24px; background: url(../images/search_bj1.jpg) no-repeat top; padding-top: 24px; }
+.nav em span { float: left; height: 33px; }
+.nav em strong { display: block; height: 24px; margin: 0; padding: 0;}
+.Input_t { border: 1px #fff solid; background: #fff; color: #999; margin-top: 8px; margin-left: 5px; }
+.nav dl { border: 1px #dfdfdf solid; width: 998px; float: left; margin: 10px 0; }
+.nav dl dd { float: left; margin-left: 20px; line-height: 30px; }
+.nav dl dd a { color: #9f9f9f; padding-left: 20px; width: 30px; background: url(../images/a.jpg) no-repeat left; font-family: Arial, Helvetica, sans-serif; }
+.nav dl dd.f1 a { color: #66aa00; font-weight: 700; padding-left: 20px; width: 30px; background: url(../images/b.jpg) no-repeat left; font-family: Arial, Helvetica, sans-serif; }
+.nav dl dt { text-align: center; width: 80px; line-height: 30px; background: #66aa00; color: #fff; float: left; }
+
+.nav1{width:1000px; background:url(../images/ttz_nav_2.jpg) no-repeat top; float:left; margin-top:8px}
+.nav1 ul{height:66px;}
+.nav1 ul li{float:left; width:166px; text-align:center; background:url(../images/ttz_nav_3.jpg); height:66px; line-height:58px; font-size:12px}
+.nav1 ul li a{color:#666; display:block; width:166px; height:66px}
+.nav1 ul li a:hover{color:#666}
+.nav1 ul li.f1{background:url(../images/ttz_nav_1.jpg) center;}
+.nav1 ul li.f1 a{font-weight:700; color:#fff}
+
+
+.menu{float:left; width:998px;}
+.menu dl{ width:998px; background:url(../images/menu_bj.jpg); height:36px;margin-top:10px; border-top:1px #f2f2f2}
+.menu dl dt{ float:left; background:url(../images/menu_a_bj.jpg); line-height:30px; height:36px; width:105px; color:#fff; font-weight:700; padding-left:10px}
+.menu dl dd.p1,.menu dl dd.p2{float:left; line-height:30px; height:36px;width:130px; padding-left:20px;margin-left:20px}
+.menu dl dd.p1 a{color:#66aa00; font-weight:700}
+.menu dl dd.p1{background:url(../images/menu_b_bj.jpg) no-repeat left}
+.menu dl dd.p2{ background:url(../images/menu_c_bj.jpg) no-repeat left;}
+.menu dl dd.p2 a{color:#666}
+
+h2 { margin:10px 0 0 0; padding: 0; line-height: 34px; font-size: 20px; width: 1000px; float: left; color: #66aa00; font-family: 'Microsoft Yahei' , '黑体' ,Arial,Verdana; }
+h5 { margin: 0; padding: 0; line-height:30px; font-size: 12px; width: 1000px; float: left; color: #666; font-family:"宋体"}
+h6 { margin: 5px 0; padding: 0; font-size: 12px; line-height: 24px; width: 1000px; float: left; }
+
+h3{ margin:10px 0 0 0; padding:0; line-height: 34px; font-size:18px; width: 1000px; float: left; color: #66aa00; font-family: 'Microsoft Yahei' , '黑体' ,Arial,Verdana;}
+h3 span{color:#333; padding-right:20px}
+.list {width: 998px; border: 1px #dfdfdf solid; float: left; }
+.list ul { height: 32px; background: #f2f2f2; width: 998px; }
+.list ul li.a1, .list ul li.a2, .list ul li.a3 { float: left; line-height: 32px; font-size: 13px; font-weight: 700; text-align: center; color: #66aa00; }
+.list ul li.a1 { width: 206px; }
+.list ul li.a2 { width: 350px; border-left: 1px #dfdfdf solid; }
+.list ul li.a3 { width: 440px; border-left: 1px #dfdfdf solid; }
+.list dl { width: 998px; float: left; background: url(../images/list_bj.jpg) repeat-y; }
+.list dl dt.b1, .list dl dt.b2, .list dl dd { float: left; }
+.list dl dt.b1 { width: 188px; line-height: 26px; padding: 16px 9px 0 9px; border-top: 1px #dfdfdf solid; float: left; }
+.list dl dt.b1 span { font-family: Arial, Helvetica, sans-serif; padding-right: 10px; font-weight: 700; }
+.list dl dt.b1 b{color:#FF3300}
+.list dl dt.b2 { width: 351px; line-height: 26px; }
+.list dl dt.b2 span { display: block; border-top: 1px #dfdfdf solid; padding: 7px 9px; }
+.list dl dt.b3 { width: 188px; line-height: 26px; padding: 16px 9px 0 9px; border-top: 1px #dfdfdf solid; float: left; }
+.list dl dd { width: 440px; float: left; }
+.list dl dd strong { display: block; border-top: 1px #dfdfdf solid; height: 24px; background: url(../images/tab_bj1.jpg); }
+.list dl dd strong em.c1, .list dl dd strong em.c2 { font-style: normal; font-size: 12px; text-align: center; width: 35px; float: left; line-height: 24px; cursor: pointer; border-left: 1px #dfdfdf solid; font-family: Arial, Helvetica, sans-serif; }
+.list dl dd strong em.c1 { background: url(../images/tab_bj2.jpg); color: #66aa00; }
+.list dl dd strong em.c2 { font-weight: 400; background: url(../images/tab_bj1.jpg); }
+.list dl dd span { display: block; line-height: 26px; padding: 7px 7px 7px 12px; text-align: right; width:400px; float:left }
+.list dl dd span a { display: block; text-decoration: none; color: #666; background: url(../images/dian.jpg) no-repeat left; padding-left: 10px; text-align: right; cursor: pointer; }
+.list dl dd span a div { float: left; text-align: left; }
+
+
+.backToTop { display: none; width: 18px; line-height: 1.2; padding: 5px 0; background-color: #66aa00; color: #fff; font-size: 12px; text-align: center; position: fixed; _position: absolute; right: 10px; bottom: 150px; _bottom: "auto"; cursor: pointer; opacity: .9; filter: Alpha(opacity=90); }
+
+.news { width: 998px; margin-top: 8px; border: 1px #dfdfdf solid; float: left; }
+.news1 { width: 1000px; float: left; font-size: 12px; font-weight: 400; display: block; color: #999; line-height: 24px; margin-top: 10px; }
+.news1 a { color: #999; }
+.news h1 { margin: 10px; padding: 0; font-size: 24px; line-height: 50px; text-align: center; color: #66aa00; font-family: 'Microsoft Yahei' , '黑体' ,Arial,Verdana; border-bottom: 1px #dfdfdf dotted; }
+.news h1 span { display: block; font-size: 11px; color: #fff; font-weight: 400; line-height: 14px; text-align: left; }
+.news h1 span a { color: #fff; }
+.news ul { padding: 15px 30px; }
+.news ul li { line-height: 300%; color: #666; }
+.news ul li a:active { text: expression_r(target="_blank"); }
+.bottom { width: 100%; margin-top: 12px; height: 40px; background: #f2f2f2; border-top: 1px #dfdfdf solid; float: left; }
+.bottom ul { width: 1000px; margin: 0 auto; }
+.bottom ul li { line-height: 40px; }
+.bottom ul li span { font-family: Arial, Helvetica, sans-serif; }
+.bottom ul li a { color: #666; }
+.bottom ul li strong { font-weight: 400; color: #f2f2f2; padding-left: 100px; display: none; }
+
+.Hospitalaudit { width: 188px; line-height: 26px; float: left; }
+.Hospitalaudit ul { width: 188px; height: auto; background-color: #FFFFFF; }
+.Hospitalaudit li { width: 188px; line-height:32px; color: #0066FF; border-top-width:1px; border-top-style: dashed; border-top-color: #CCCCCC; margin-top:5px;}
+.audit_button { border: 0; width: 50px; height: 18px; background: url(../images/an_w.gif); vertical-align: middle; cursor: hand; color: #fff; padding-left:10px; }
+.status_button { border: 0; width: 45px; height: 18px; background: url(../images/an.gif); vertical-align: middle; cursor: hand; color: #fff; }
+.status_button_audited { border: 0; width: 45px; height: 18px; background: url(../images/an.gif); vertical-align: middle; cursor: hand; color: #843900}
+#div_Hospitalaudit { width: 670px; margin: 0; padding: 0; margin: 0 0 25px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; background: #ddf3f9 url(../images/sign-up-bg-b.png) repeat-x; }
+#div_Hospitalaudit h4 { margin: 0; padding: 7px 10px; line-height: 15px; font-weight: bold; border-radius: 2px 2px 0 0; -moz-border-radius: 2px 2px 0 0; -webkit-border-top-left-radius: 2px; -webkit-border-top-right-radius: 2px; background: #55aed0 url(../images/screens-a-label.gif) 0 100% repeat-x; color: #fff; font-size: 1.1em; text-shadow: #478fab 0 -1px 0; }
+#div_Hospitalaudit div.inner { padding: 9px 19px; border: 1px solid #fff; background: url(../images/sign-up-bg.gif) repeat-y; }
+#div_Hospitalaudit div.inner p { overflow: hidden; color: #244a5c; margin: 0; padding: 10px 0 8px; text-shadow: #fff 0 1px 0; background: url(../images/sep-c.gif) repeat-x; }
+#div_Hospitalaudit div.inner p textarea { width: 480px; height: 200px; -moz-box-shadow: 1px 1px 0 #E7E7E7; -moz-box-sizing: border-box; border-color: #CCCCCC #999999 #999999 #CCCCCC; border-style: solid; border-width: 1px; font-family: arial,sans-serif; font-size: 13px; height: 160px; margin: 10px auto; outline-color: -moz-use-text-color; outline-style: none; outline-width: medium; padding: 2px; }
+#div_Hospitalaudit div.inner p.first input { margin-left: 15px; }
+#div_Hospitalaudit div.inner p label { display: inline; float: left; width: 80px; margin: -10px 30px 0 0; padding: 11px 0 0; vertical-align: middle; }
+#div_Hospitalaudit p.submit { padding: 15px 10px 15px 240px; border-radius: 0 0 2px 2px; -moz-border-radius: 0 0 2px 2px; -webkit-border-bottom-left-radius: 2px; -webkit-border-bottom-right-radius: 2px; }
+#div_Hospitalaudit p.submit button { padding: 1px 8px 3px; color: #000; }
+#div_Hospitalaudit p.submit button:hover { opacity: .9; }
+/*2-4个字符用的按钮，未聚焦状态*/
+.btn_24 { font-size: 12px; background: url(../images/btn_24.gif); border: 0px 0; width: 73px; height: 31px; cursor:hand; }

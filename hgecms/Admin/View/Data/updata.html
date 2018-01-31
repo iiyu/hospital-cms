@@ -1,0 +1,43 @@
+<form id="pagerForm" method="post" action="#rel#">
+	<input type="hidden" name="pageNum" value="1" />
+	<input type="hidden" name="numPerPage" value="${model.numPerPage}" />
+	<input type="hidden" name="orderField" value="${param.orderField}" />
+	<input type="hidden" name="orderDirection" value="${param.orderDirection}" />
+</form>
+
+<div class="pageContent">
+	<div class="panelBar">
+		<ul class="toolBar">
+			<a class="add" title="上传资料" href="__MODULE__/Data/add" target="navTab" width="700" height="450"><span>上传资料</span></a>
+		</ul>
+	</div>
+	<table class="table" width="1200" layoutH="138">
+		<thead>
+			<tr>
+				<th width="120" orderField="accountNo" class="asc">资料ID</th>
+				<th orderField="accountName">资料标题</th>
+				<th width="80" orderField="accountType">爷爷编码</th>
+				<th width="80" orderField="accountType">父编码</th>
+				<th width="80" orderField="accountType">上传人</th>
+				<th width="80" orderField="accountType">上传日期</th>
+				<th width="70">操作</th>
+			</tr>
+		</thead>
+		<tbody>
+		<foreach name="list" item="vo" key="k" >
+			<tr target="sid_user" rel="1">
+				<td>{$vo.id}</td>
+				<td>{$vo.title}</td>
+				<td>{$vo.upsort}</td>
+				<td>{$vo.nextsort}</td>
+				<td>{$vo.author}</td>
+				<td>{$vo.createtime}</td>
+				<td>
+					<a title="删除" target="ajaxTodo" href="__MODULE__/Data/del/id/{$vo.id}" class="btnDel">删除</a>
+					<!--<a title="修改" target="dialog" href="__MODULE__/Info/edit/id/{$vo.id}" class="btnEdit" width="400" height="350">修改</a>-->
+				</td>
+			</tr>
+		</foreach>
+		</tbody>
+	</table>
+</div>

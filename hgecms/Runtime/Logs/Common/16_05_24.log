@@ -1,0 +1,804 @@
+[ 2016-05-24T17:14:26+08:00 ] ::1 /ershou/index.php/Public/main?_=1464081266936
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:14:32+08:00 ] ::1 /ershou/index.php/Public/password/?_=1464081272261
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/themes/default/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/jquery.bgiframe.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/xheditor/xheditor-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:Xheditor
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/xheditor/xheditor_lang/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+ERR: 无法加载模块:Xheditor
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/uploadify/scripts/jquery.uploadify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Uploadify
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/chart/raphael.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/chart/g.raphael.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/chart/g.bar.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/chart/g.line.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/chart/g.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/chart/g.dot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.util.date.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.validate.method.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.barDrag.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.drag.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.tree.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.accordion.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.theme.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.switchEnv.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.alertMsg.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.contextmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.navTab.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.tab.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.dialogDrag.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.sortDrag.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.cssTable.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:07+08:00 ] ::1 /ershou/index.php/js/dwz.stable.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.taskBar.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.database.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.datepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.effects.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.panel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.checkbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.history.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.combox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.print.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/js/dwz.regional.zh.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/themes/css/print.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:21:08+08:00 ] ::1 /ershou/index.php/uploadify/css/uploadify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Uploadify
+
+[ 2016-05-24T17:21:10+08:00 ] ::1 /ershou/index.php/themes/css/core.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:21:10+08:00 ] ::1 /ershou/index.php/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002635s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:10+08:00 ] ::1 /ershou/index.php/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:10+08:00 ] ::1 /ershou/index.php/js/jquery.validate.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/jquery.cookie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/jquery.bgiframe.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/xheditor/xheditor-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Xheditor
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/jquery.validate.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/uploadify/scripts/jquery.uploadify.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Uploadify
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/chart/g.raphael.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/chart/raphael.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/chart/g.bar.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/chart/g.line.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/chart/g.dot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.util.date.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.validate.method.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.barDrag.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/chart/g.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.drag.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.ui.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.tree.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.accordion.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.switchEnv.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.theme.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.alertMsg.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.contextmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.navTab.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.tab.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.dialog.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.dialogDrag.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.sortDrag.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.resize.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.cssTable.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.stable.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.taskBar.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.datepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.pagination.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.effects.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.panel.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.checkbox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.print.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.combox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.history.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.regional.zh.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:57+08:00 ] ::1 /ershou/index.php/js/dwz.database.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Js
+
+[ 2016-05-24T17:21:58+08:00 ] ::1 /ershou/index.php/xheditor/xheditor_lang/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Xheditor
+
+[ 2016-05-24T17:22:42+08:00 ] ::1 /ershou/index.php/chart/raphael.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:22:42+08:00 ] ::1 /ershou/index.php/chart/g.raphael.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:22:42+08:00 ] ::1 /ershou/index.php/chart/g.bar.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:22:42+08:00 ] ::1 /ershou/index.php/chart/g.line.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:22:42+08:00 ] ::1 /ershou/index.php/chart/g.pie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:22:43+08:00 ] ::1 /ershou/index.php/chart/g.dot.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+ERR: 无法加载模块:Chart
+
+[ 2016-05-24T17:29:41+08:00 ] ::1 /ershou/index.php/dwz.frag.xml?_=1464082181691
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Dwz.frag
+
+[ 2016-05-24T17:31:40+08:00 ] ::1 /ershou/index.php/dwz.frag.xml?_=1464082300291
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Dwz.frag
+
+[ 2016-05-24T17:32:30+08:00 ] ::1 /ershou/index.php/dwz.frag.xml?_=1464082350438
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 无法加载模块:Dwz.frag
+
+[ 2016-05-24T17:34:32+08:00 ] ::1 /ershou/index.php/__/PUBLIC__/Admin/dwz.frag.xml?_=1464082472072
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:__
+
+[ 2016-05-24T17:35:41+08:00 ] ::1 /ershou/index.php/themes/silver/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:39:12+08:00 ] ::1 /ershou/index.php/themes/default/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:39:14+08:00 ] ::1 /ershou/index.php/themes/default/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:39:14+08:00 ] ::1 /ershou/index.php/themes/default/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:39:17+08:00 ] ::1 /ershou/index.php/themes/silver/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:39:17+08:00 ] ::1 /ershou/index.php/themes/green/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:41:36+08:00 ] ::1 /ershou/index.php/themes/green/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:43:43+08:00 ] ::1 /ershou/index.php/themes/green/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-05-24T17:48:20+08:00 ] ::1 /ershou/index.php/demo/common/ajaxTimeout.html?_=1464083287079
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-24T17:50:46+08:00 ] ::1 /ershou/index.php/changepwd.html?_=1464083347783
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Changepwd
+
+[ 2016-05-24T17:58:57+08:00 ] ::1 /ershou/index.php/dwz.frag.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Dwz.frag
+
+[ 2016-05-24T17:59:25+08:00 ] ::1 /ershou/index.php/tabsPage.html?_=1464083928848
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-24T18:00:11+08:00 ] ::1 /ershou/index.php/demo_page1.html?_=1464083967824
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Demo_page1
+
+[ 2016-05-24T18:00:17+08:00 ] ::1 /ershou/index.php/tabsPage.html?_=1464083967825
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-24T18:00:42+08:00 ] ::1 /ershou/index.php/newPage1.html?_=1464083967826
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:NewPage1
+
+[ 2016-05-24T18:05:14+08:00 ] ::1 /ershou/index.php/newPage1.html?_=1464084312663
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载模块:NewPage1
+
+[ 2016-05-24T18:10:34+08:00 ] ::1 /ershou/index.php/newPage1.html?_=1464084590676
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+ERR: 无法加载模块:NewPage1
+
+[ 2016-05-24T18:11:37+08:00 ] ::1 /ershou/index.php/newPage1.html?_=1464084590677
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:NewPage1
+
+[ 2016-05-24T18:40:55+08:00 ] ::1 /ershou/index.php/newPage1.html?_=1464084590678
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:NewPage1
+
+[ 2016-05-24T20:03:24+08:00 ] ::1 /ershou/index.php/tabsPage.html?_=1464091400274
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-24T20:03:30+08:00 ] ::1 /ershou/index.php/main.html?_=1464091400275
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Main
+
+[ 2016-05-24T20:04:33+08:00 ] ::1 /ershou/index.php/dwz.frag.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Dwz.frag
+
+[ 2016-05-24T20:04:34+08:00 ] ::1 /ershou/index.php/tabsPage.html?_=1464091467772
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-24T20:09:00+08:00 ] ::1 /ershou/index.php/tabsPage.html?_=1464091731018
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-24T20:11:42+08:00 ] ::1 /ershou/index.php/tabsPage.html?_=1464091731019
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-24T20:20:46+08:00 ] ::1 /ershou/index.php/main.html?_=1464092443877
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Main
+
+[ 2016-05-24T20:38:18+08:00 ] ::1 /ershou/index.php/tabsPage.html?_=1464093464682
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-24T20:46:14+08:00 ] ::1 /ershou/index.php/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Login
+

@@ -1,0 +1,186 @@
+[ 2016-05-28T09:49:55+08:00 ] ::1 /hgecms/index.php/demo/pagination/list1.html?_=1464400192003
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T09:49:58+08:00 ] ::1 /hgecms/index.php/demo/pagination/list1.html?_=1464400192004
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T09:52:54+08:00 ] ::1 /hgecms/index.php/__MODLUE__/Info/lists?_=1464400370801
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:__MODLUE__
+
+[ 2016-05-28T09:57:05+08:00 ] ::1 /hgecms/index.php/tabsPage.html?_=1464400620260
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-28T09:57:28+08:00 ] ::1 /hgecms/index.php/demo/pagination/dialog2.html?_=1464400620263
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T09:57:49+08:00 ] ::1 /hgecms/index.php/demo/pagination/list1.html?_=1464400620265
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T09:58:13+08:00 ] ::1 /hgecms/index.php/demo/pagination/list1.html?_=1464400620268
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T10:04:57+08:00 ] ::1 /hgecms/index.php/demo/pagination/list1.html?_=1464401093612
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T10:23:11+08:00 ] ::1 /hgecms/index.php/demo/pagination/list1.html?_=1464402137924
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T10:24:51+08:00 ] ::1 /hgecms/index.php/demo/pagination/list1.html?_=1464402137926
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T10:31:43+08:00 ] ::1 /hgecms/index.php/demo/pagination/dialog2.html?_=1464402683425
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T10:34:33+08:00 ] ::1 /hgecms/index.php/demo/pagination/dialog2.html?uid=1&_=1464402726180
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T10:34:36+08:00 ] ::1 /hgecms/index.php/demo/pagination/dialog2.html?_=1464402726181
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T10:37:45+08:00 ] ::1 /hgecms/index.php/demo/pagination/dialog2.html?_=1464402726182
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T12:15:50+08:00 ] ::1 /hgecms/index.php/demo/common/ajaxDone.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T12:16:09+08:00 ] ::1 /hgecms/index.php/tabsPage.html?_=1464408448099
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-28T12:19:11+08:00 ] ::1 /hgecms/index.php/tabsPage.html?_=1464408448100
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-28T12:20:56+08:00 ] ::1 /hgecms/index.php/tabsPage.html?_=1464408448101
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-28T12:21:02+08:00 ] ::1 /hgecms/index.php/tabsPage.html?_=1464409258963
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:TabsPage
+
+[ 2016-05-28T12:27:49+08:00 ] ::1 /hgecms/index.php/demo/pagination/dialog1.html?_=1464409580806
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T12:32:26+08:00 ] ::1 /hgecms/index.php/demo/database/dwzOrgLookup.html?_=1464409580816
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T12:32:28+08:00 ] ::1 /hgecms/index.php/demo/database/dwzOrgLookup.html?_=1464409580817
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T16:50:44+08:00 ] ::1 /hgecms/index.php/demo_page4.html?_=1464425433901
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Demo_page4
+
+[ 2016-05-28T17:31:21+08:00 ] ::1 /hgecms/index.php/demo_page4.html?_=1464427303376
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+ERR: 无法加载模块:Demo_page4
+
+[ 2016-05-28T17:46:17+08:00 ] ::1 /hgecms/index.php/demo/database/db_lookupSuggest.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T17:46:18+08:00 ] ::1 /hgecms/index.php/demo/database/dwzOrgLookup.html?_=1464427303410
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T17:52:00+08:00 ] ::1 /hgecms/index.php/demo/database/db_lookupSuggest.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T18:14:42+08:00 ] ::1 /hgecms/index.php/demo/database/dwzOrgLookup.html?_=1464430405254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T18:16:34+08:00 ] ::1 /hgecms/index.php/demo/database/db_lookupSuggest.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T18:20:08+08:00 ] ::1 /hgecms/index.php/demo/database/db_lookupSuggest.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Demo
+
+[ 2016-05-28T18:35:53+08:00 ] ::1 /hgecms/index.php/demo/common/ajaxDone.html?id=xxx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:Demo
+

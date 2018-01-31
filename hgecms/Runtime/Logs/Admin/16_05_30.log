@@ -1,0 +1,1671 @@
+[ 2016-05-30T08:23:28+08:00 ] ::1 /hgecms/index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009957s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.006764s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.006837s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001297s ]
+
+[ 2016-05-30T13:36:13+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464567808472
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0109s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001051s ]
+
+[ 2016-05-30T13:36:15+08:00 ] ::1 /hgecms/index.php/Admin/Data/updata?_=1464567808473
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-05-30T14:43:42+08:00 ] ::1 /hgecms/index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006475s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2016-05-30T14:51:37+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464590622304
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0526s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-05-30T14:51:56+08:00 ] ::1 /hgecms/index.php/Admin/Info/add?_=1464590622305
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002034s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0063s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0073s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002750s ]
+
+[ 2016-05-30T14:52:21+08:00 ] ::1 /hgecms/index.php/Admin/Info/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: validate D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `ny_biaozhuntype` WHERE ( id=11 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: INSERT INTO `ny_biaozhuntype` (`sort`,`details`,`pid`,`typename`,`path`) VALUES ('C1','1.医院至少开展两种以上形式的预约诊疗服务，如电话、网络、现场等预约形式。','11','项','0.1.7.9.11') [ RunTime:0.0004s ]
+
+[ 2016-05-30T14:52:25+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464590622306
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0091s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0108s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000965s ]
+
+[ 2016-05-30T14:54:25+08:00 ] ::1 /hgecms/index.php/Admin/Info/add?_=1464590622307
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0094s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0106s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001368s ]
+
+[ 2016-05-30T14:54:38+08:00 ] ::1 /hgecms/index.php/Admin/Info/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0142s ]
+NOTIC: [8] Undefined index: validate D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ny_biaozhuntype` (`sort`,`details`,`pid`,`typename`,`path`) VALUES ('7','闸阀就hi的话','0','章','0') [ RunTime:0.0008s ]
+
+[ 2016-05-30T14:54:41+08:00 ] ::1 /hgecms/index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013884s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002440s ]
+
+[ 2016-05-30T14:54:43+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464591281124
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0092s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0095s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001028s ]
+
+[ 2016-05-30T14:56:44+08:00 ] ::1 /hgecms/index.php/Admin/Info/del/id/17
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `ny_biaozhuntype` WHERE ( pid = 17 )  [ RunTime:0.0008s ]
+SQL: DELETE FROM `ny_biaozhuntype` WHERE `id` = 17 [ RunTime:0.0007s ]
+
+[ 2016-05-30T14:56:47+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464591281125
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0081s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0098s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-05-30T15:40:18+08:00 ] ::1 /hgecms/index.php/Admin/Info/add?_=1464591281126
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0110s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0098s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-05-30T15:41:00+08:00 ] ::1 /hgecms/index.php/Admin/Info/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: validate D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `ny_biaozhuntype` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: INSERT INTO `ny_biaozhuntype` (`sort`,`details`,`pid`,`typename`,`path`) VALUES ('1.3','三、承担政府指令性任务','1','节','0.1') [ RunTime:0.0009s ]
+
+[ 2016-05-30T15:41:03+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464591281127
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0114s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0094s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2016-05-30T18:01:58+08:00 ] ::1 /hgecms/index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-05-30T18:02:10+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0096s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0094s ]
+
+[ 2016-05-30T18:02:37+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0090s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0105s ]
+
+[ 2016-05-30T18:19:50+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0123s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0112s ]
+
+[ 2016-05-30T18:20:37+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0065s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0081s ]
+
+[ 2016-05-30T18:21:09+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0099s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0096s ]
+
+[ 2016-05-30T18:22:53+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0089s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0213s ]
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+
+[ 2016-05-30T18:23:04+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0108s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0112s ]
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 27 行.
+
+[ 2016-05-30T18:25:22+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0101s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0092s ]
+
+[ 2016-05-30T18:26:15+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0098s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0093s ]
+NOTIC: [8] Undefined variable: items D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 18 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 7 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 9 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 11 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 16 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 8 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 10 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 12 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 2 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 15 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 3 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 4 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 5 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 6 D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 24 行.
+
+[ 2016-05-30T18:27:51+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-05-30T18:28:03+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0093s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0099s ]
+
+[ 2016-05-30T18:28:25+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0056s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0059s ]
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+
+[ 2016-05-30T18:28:46+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0103s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+
+[ 2016-05-30T18:29:18+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0063s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+
+[ 2016-05-30T18:29:44+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0048s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0052s ]
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+
+[ 2016-05-30T18:38:34+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0029s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+
+[ 2016-05-30T18:40:41+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0048s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0059s ]
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+NOTIC: [8] Undefined index: parent D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 33 行.
+
+[ 2016-05-30T18:41:31+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0048s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0044s ]
+
+[ 2016-05-30T18:42:48+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0088s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0096s ]
+
+[ 2016-05-30T18:43:12+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0065s ]
+
+[ 2016-05-30T18:59:35+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0059s ]
+NOTIC: [8] Undefined variable: list D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 25 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\hgecms\hgecms\Admin\Controller\InfoController.class.php 第 35 行.
+
+[ 2016-05-30T18:59:55+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0097s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0098s ]
+
+[ 2016-05-30T19:03:05+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0398s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0395s ]
+
+[ 2016-05-30T19:44:52+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0236s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0079s ]
+
+[ 2016-05-30T19:48:31+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0093s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath ORDER BY id desc  [ RunTime:0.0097s ]
+
+[ 2016-05-30T19:49:47+08:00 ] ::1 /hgecms/index.php/admin/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0060s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath ORDER BY id asc  [ RunTime:0.0177s ]
+
+[ 2016-05-30T19:51:33+08:00 ] ::1 /hgecms/index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-05-30T19:51:48+08:00 ] ::1 /hgecms/index.php/admin/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0107s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath ORDER BY id asc  [ RunTime:0.0076s ]
+
+[ 2016-05-30T20:26:25+08:00 ] ::1 /hgecms/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-05-30T20:26:27+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464611185164
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0888s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath ORDER BY id asc  [ RunTime:0.0109s ]
+
+[ 2016-05-30T20:27:08+08:00 ] ::1 /hgecms/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005152s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2016-05-30T20:27:10+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464611228693
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0097s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath ORDER BY id asc  [ RunTime:0.0068s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2016-05-30T20:27:30+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464611228694
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0117s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0119s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-05-30T20:27:37+08:00 ] ::1 /hgecms/index.php/Admin/Info/add?_=1464611228695
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0055s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0082s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010763s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000933s ]
+
+[ 2016-05-30T20:28:41+08:00 ] ::1 /hgecms/index.php/Admin/Info/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0150s ]
+NOTIC: [8] Undefined index: validate D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `ny_biaozhuntype` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: INSERT INTO `ny_biaozhuntype` (`sort`,`details`,`pid`,`typename`,`path`) VALUES ('1.1.2 ','主要承担常见病、多发病、部分疑难病的诊疗工作，兼顾预防、保健、康复功能，可提供24小时急危重症诊疗服务。','7','条','0.1.7') [ RunTime:0.0003s ]
+
+[ 2016-05-30T21:07:24+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464611228696
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0096s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0059s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2016-05-30T21:08:01+08:00 ] ::1 /hgecms/index.php/Admin/Info/add?_=1464611228697
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0086s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0090s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001523s ]
+
+[ 2016-05-30T21:08:17+08:00 ] ::1 /hgecms/index.php/Admin/Info/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0086s ]
+NOTIC: [8] Undefined index: validate D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `ny_biaozhuntype` WHERE ( id=11 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: INSERT INTO `ny_biaozhuntype` (`sort`,`details`,`pid`,`typename`,`path`) VALUES ('c2','2.人员编制至少达到：
+（1）医院病床与工作人员之比，300 床位以下的按 1:1.30～1.40；300-500 床位的按 1:1.40～1.50；500 床位以上的按 1:1.60～1.70。
+（2）每床至少配备 0.88 名卫生技术人员。每床至少配备 0.4 名护士，且实际 从事临床工作的在编护理人员数不少于卫技人员总数的 50%。','11','项','0.1.7.9.11') [ RunTime:0.0008s ]
+
+[ 2016-05-30T21:08:20+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464611228698
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0176s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0117s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2016-05-30T21:52:37+08:00 ] ::1 /hgecms/index.php/Admin/Info/add?_=1464611228699
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0122s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0129s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012148s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-05-30T21:53:58+08:00 ] ::1 /hgecms/index.php/Admin/Info/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0106s ]
+NOTIC: [8] Undefined index: validate D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\WWW\hgecms\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `ny_biaozhuntype` WHERE ( id=19 ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: INSERT INTO `ny_biaozhuntype` (`sort`,`details`,`pid`,`typename`,`path`) VALUES ('1.1.2.1','主要承担常见病、多发病、部分疑难病的诊疗工作。可提供24小时急诊诊疗服务。（★）','19','款','0.1.7.19') [ RunTime:0.0011s ]
+
+[ 2016-05-30T21:57:44+08:00 ] ::1 /hgecms/index.php/Admin/Info/index?_=1464611228700
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `ny_biaozhuntype` [ RunTime:0.0092s ]
+SQL: SELECT `id`,`typename`,`details`,`pid`,`path`,`sort`,concat(path,'.',id) as bpath FROM `ny_biaozhuntype` GROUP BY bpath  [ RunTime:0.0102s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001109s ]
+

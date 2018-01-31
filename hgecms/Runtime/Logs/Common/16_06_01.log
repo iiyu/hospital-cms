@@ -1,0 +1,24 @@
+[ 2016-06-01T12:15:44+08:00 ] ::1 /hgecms/index.php/Public/Uploads/2016-06-01/2016-06-01/574e611305214.docx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-01T12:16:13+08:00 ] ::1 /hgecms/index.php/Public/Uploads/2016-06-01/2016-06-01/574e611305214.docx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-01T12:29:45+08:00 ] ::1 /hgecms/index.php/Public/Uploads/2016-06-01/574e649adc9a3.doc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-01T12:32:31+08:00 ] ::1 /hgecms/index.php/Uploads/2016-06-01/574e653f82ac9.doc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载模块:Uploads
+
